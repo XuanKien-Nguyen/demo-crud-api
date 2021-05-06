@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.mb-10{
+  margin-bottom: 10px;
+}
+.ml-10{
+  margin-left: 10px;
+}
+.mr-10{
+  margin-right: 10px;
+}
+
+.mr-5{
+  margin-right: 5px;
+}
+
+.home-page {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
